@@ -1,5 +1,5 @@
 # Iris-flower-classification
-IRIS Flower Classification [https://irisflowerml.herokuapp.com/](https://irisflowerml.herokuapp.com/){:target="_blank" rel="noopener"}
+IRIS Flower Classification (https://irisflowerml.herokuapp.com/)
 
 You can deploy this solution directly on heroku.
 
