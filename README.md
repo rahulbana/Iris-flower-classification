@@ -11,7 +11,7 @@ git clone https://github.com/rahulbana/Iris-flower-classification.git
 
 cd Iris-flower-classification
 
-pip intall -r requirements.txt
+pip install -r requirements.txt
 
 pip jupyter notebook
 
@@ -25,7 +25,7 @@ git clone https://github.com/rahulbana/Iris-flower-classification.git
 
 cd Iris-flower-classification
 
-pip intall -r requirements.txt
+pip install -r requirements.txt
 
 pip jupyter notebook
 
